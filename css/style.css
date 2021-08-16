@@ -1,6 +1,7 @@
 * {
   background-color: crimson;
   opacity: 0.9;
+  transition: 1s;
 }
 
 .container {
@@ -22,4 +23,5 @@
   font-size: 200px;
   align-items: center;
   justify-content: center;
+  transition: 1s;
 }
